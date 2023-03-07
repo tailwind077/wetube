@@ -1,0 +1,8 @@
+깃에서 다운로드 후 깃배쉬 로 깃허브와 연결해 주기
+vscode 들어와서 터미널에서 깃허브와 연결해 주기
+
+
+터미널에서로 깃에 올리기
+git status
+git commit -m "블라블라"
+git push origin mater
